@@ -1,1 +1,1 @@
-# PDF-Summarizer
+# Summarizer

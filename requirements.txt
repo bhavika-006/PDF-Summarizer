@@ -1,0 +1,10 @@
+streamlit
+unstructured
+pdf2image
+pandas
+langchain
+chromadb
+google-generativeai
+langchain-google-genai
+python-dotenv
+tavily-python
